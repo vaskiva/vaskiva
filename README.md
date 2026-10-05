@@ -28,6 +28,7 @@ My goal isn't to collect tutorials or completed exercises. I want to understand 
 
 ## Current projects
 
+- Service Intake App
 - 🖥️ Raspberry Pi Homelab
 - ⚡ Filesystem Integrity API
 - 🤖 AI Blog Agent
